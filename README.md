@@ -7,9 +7,22 @@ and watch out for those: [How not to Python in Javascript-](https://github.com/m
 
 [AJAX is Life](https://github.com/maciejjankowski/ajax-is-life)
 
-[Separating concerns](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
+
+Always separate the following:
+
+1. updating user interface
+2. getting user input
+3. high-level application logic
+
+Here is an example:
 
 [How to update UI from model (just two dumb functions)](https://jsbin.com/dapeha/)
+
+
+
+[Separating concerns](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
+
+
 
 https://javascript.info
 
