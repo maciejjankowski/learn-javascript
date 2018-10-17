@@ -4,7 +4,7 @@ If you are coming from another language, i.e. Python, [read this](https://learnx
 and watch out for those: [How not to Python in Javascript-](https://github.com/maciejjankowski/learn-javascript/wiki/How-to-Python-in-Javascript)
 
 
-[AJAX is Life](https://github.com/maciejjankowski/ajax-is-life)
+[AJAX is Life](https://github.com/maciejjankowski/ajax-is-life/wiki)
 
 
 Always separate the following:
