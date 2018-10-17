@@ -15,7 +15,7 @@ Always separate the following:
 
 Here is an example:
 
-[How to update UI from model (just two dumb functions)](https://jsbin.com/dapeha/edit?html,js,output)
+[How to update *view* from *model* (just two dumb functions)](https://jsbin.com/dapeha/edit?html,js,output)
 
 [Better promises](https://francisco.io/blog/better-promises/)
 
