@@ -33,6 +33,7 @@ Front end concepts
   * thunk?
   * form?) 
 * rxJS - 8
+* [javascript optimization lookout](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 
 80-100h
 
