@@ -48,3 +48,16 @@ Front end concepts
   * [singleton]()
   * [mixin]()
 * [Good parts](https://github.com/dwyl/Javascript-the-Good-Parts-notes)
+
+
+## Extra stuff
+* [how to find node/v8 optimization killers](https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/)
+* [meta programming](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming)
+* []()
+
+````javascript
+// How to make the below code run
+if (x == 1 && x == 2 && x == 3){
+  console.log('try to run me, Hacker!');
+}
+````
