@@ -53,7 +53,7 @@ Front end concepts
 ## Extra stuff
 * [how to find node/v8 optimization killers](https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/)
 * [meta programming](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming)
-* []()
+* [website optimization](https://3perf.com/talks/web-perf-101/)
 
 ````javascript
 // How to make the below code run
