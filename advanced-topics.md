@@ -52,7 +52,7 @@ Front end concepts
   * [singleton]()
   * [mixin]()
 * [Good parts](https://github.com/dwyl/Javascript-the-Good-Parts-notes)
-
+* [front end handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 ## Extra stuff
 * [how to find node/v8 optimization killers](https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/)
