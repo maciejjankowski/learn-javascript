@@ -25,6 +25,10 @@ Front end concepts
     * [currying](https://javascript.info/currying-partials)
     * [prototype inheritance](https://javascript.info/prototype-inheritance)
 
+* SCSS, LESS, SASS
+* styled components
+* grid
+
 * react - 20
 * react state mgmt - 10
   * (reductors
