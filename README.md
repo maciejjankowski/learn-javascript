@@ -26,3 +26,4 @@ Here is an example:
 
 https://javascript.info
 
+[Mixins](https://jsbin.com/faxuder/edit?html,js,output)
